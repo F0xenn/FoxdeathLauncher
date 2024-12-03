@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'foxdeathlauncher'
+productName: 'FoxDeath Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2018-2024 Daniel Scalzi and F0xenn'
 
 asar: true
 compression: 'maximum'
